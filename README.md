@@ -4,5 +4,7 @@
 
 ## 使用環境
 - dokoQL
+#DBMS
+- SQLite
 
 # 大見出し
