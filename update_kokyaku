@@ -1,0 +1,3 @@
+UPDATE 顧客
+SET 電話番号 = '080-xxxx'
+WHERE 顧客ID = 1;
