@@ -6,3 +6,10 @@ Create table 顧客
     営業所 VARCHAR(100),
     電話番号 VARCHAR(20)
 );
+
+Select 企業名
+From 顧客
+Where 営業所 =  '名古屋'
+
+DELETE FROM 顧客
+WHERE 顧客ID = 1;
