@@ -3,6 +3,6 @@ Create table 顧客
     顧客ID INT PRIMARY KEY,
     企業名 VARCHAR(50),
     担当者名 VARCHAR(50),
-    住所 VARCHAR(100),
+    営業所 VARCHAR(100),
     電話番号 VARCHAR(20)
 );
